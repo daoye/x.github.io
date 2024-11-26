@@ -1,0 +1,106 @@
+# User Agreement
+
+Welcome to the "时见/Chroni" application (hereinafter referred to as "the App"). This agreement constitutes a legal agreement between you and the developer of the App (hereinafter referred to as "we" or "us"). By using the App, you agree to comply with the terms and conditions outlined in this agreement.
+
+
+## 1. Service Description
+
+1.1 The primary function of the App is to provide event reminder services. Users can add tasks, set a time, and receive notifications at the specified time.
+
+1.2 The App does not require account registration and does not collect, store (data is directly stored on the user’s device or iCloud), or share any personal data.
+
+
+## 2. User Rights and Obligations
+
+2.1 You have the right to legally use the features of the App in accordance with this agreement.
+
+2.2 You must only use the App for lawful purposes and refrain from engaging in any activity that violates applicable laws and regulations.
+
+2.3 You must not attempt to interfere with the normal operation of the App, including but not limited to reverse engineering, compromising security measures, or modifying the App’s functionality without authorization.
+
+
+## 3. Disclaimer
+
+3.1 The App is provided on an "as-is" basis. We make no explicit or implicit guarantees regarding its applicability, uninterrupted service, or error-free operation.
+
+3.2 We shall not be held liable for the unavailability of the App's functionality due to force majeure, including but not limited to natural disasters, governmental actions, or cyberattacks.
+
+3.3 The App’s reminder functionality is for reference purposes only. Users assume full responsibility for any consequences of failing to complete tasks on time.
+
+
+## 4. Intellectual Property Rights
+
+All rights, title, and interests in the App, including but not limited to its software code, interface design, content, and branding, belong to the developer and are protected under intellectual property laws. Users may not copy, modify, or distribute any part of the App without authorization.
+
+
+## 5. Agreement Modifications
+
+5.1 We reserve the right to amend this agreement at any time and will publish the updated agreement within the App. Users are advised to review the agreement periodically.
+
+5.2 Continued use of the App constitutes acceptance of the amended agreement.
+
+
+## 6. Governing Law and Dispute Resolution
+
+6.1 This agreement is governed by the laws of the user’s country or region of residence, provided it does not conflict with international conventions or mandatory legal provisions.
+
+6.2 Any disputes arising from this agreement shall first be resolved through amicable negotiations. If negotiations fail, either party may file a lawsuit with a court of competent jurisdiction in the developer's place of registration or the user's location.
+
+
+## 7. Language Priority
+
+In the event of any discrepancies between the English and Chinese versions of this agreement, the Chinese version shall prevail.
+
+
+# 用户协议
+
+欢迎使用“时见/Chroni”应用（以下简称“本应用”）。本协议是您与本应用开发者（以下简称“我们”）之间的法律协议，您使用本应用即表示您同意遵守本协议的条款和条件。
+
+
+## 1. 服务说明
+
+1.1 本应用的主要功能是提供事件提醒服务。用户可添加事项、设置时间，并由本应用在指定时间发送通知。
+
+1.2 本应用无需注册账户，亦不会收集、存储（数据直接存储在用户的设备或iCloud中）或分享您的任何个人数据。
+
+
+## 2. 用户的权利和义务
+
+2.1 您有权根据本协议合法使用本应用的功能。
+
+2.2 您应仅为合法目的使用本应用，不得从事任何违反法律法规的行为。
+
+2.3 您不得尝试干扰本应用的正常运行，包括但不限于逆向工程、破坏安全措施或未经授权修改应用功能。
+
+
+## 3. 免责声明
+
+3.1 本应用按照“现状”提供服务，我们对服务的适用性、不间断性或无误性不作任何明示或暗示的保证。
+
+3.2 对于因不可抗力（包括但不限于自然灾害、政府行为、网络攻击等）导致的功能不可用，我们不承担责任。
+
+3.3 本应用的提醒功能仅供辅助参考，用户需自行承担未按时完成事件的后果。
+
+
+## 4. 知识产权声明
+
+本应用的所有权利、所有权和利益，包括但不限于软件代码、界面设计和内容、标识等，均归本应用开发者所有，受知识产权法律保护。未经授权，用户不得复制、修改或分发本应用的任何部分。
+
+
+## 5. 协议修改
+
+5.1 我们有权随时修改本协议，并在应用内发布修改后的协议，用户应定期查阅。
+
+5.2 用户继续使用本应用，即表示接受修改后的协议。
+
+
+## 6. 法律适用及争议解决
+
+6.1 本协议适用用户所在国家或地区的法律，但不得违反国际公约或强制性法律规定。
+
+6.2 因本协议引起的争议，各方应尽力友好协商解决；协商不成时，任何一方可向运营方注册地或用户所在地有管辖权的法院提起诉讼。
+
+
+## 7. 优先条款
+
+如本协议的中英文版本存在不一致之处，应以中文版本为准。
